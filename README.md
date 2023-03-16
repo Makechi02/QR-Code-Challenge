@@ -24,8 +24,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/Makechi02/QR-Code-Challenge.git)
--   Live Site URL: [Add live site URL here](https://qr-code-challenge-sand.vercel.app/)
+-   Solution URL: [Github Repo](https://github.com/Makechi02/QR-Code-Challenge.git)
+-   Live Site URL: [Vercel Link](https://qr-code-challenge-sand.vercel.app/)
 
 ## My process
 

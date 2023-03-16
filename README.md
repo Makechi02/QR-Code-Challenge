@@ -38,5 +38,5 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## Author
 
 -   Website - [Makechi](love-makechi.web.app)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
--   Twitter - [@yourusername](https://www.twitter.com/yourusername)
+-   Frontend Mentor - [@Makechi02](https://www.frontendmentor.io/profile/Makechi02)
+-   Twitter - [@OEMakbe](https://www.twitter.com/OEMakbe)

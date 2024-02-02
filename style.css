@@ -32,7 +32,7 @@ p {
 }
 
 .container {
-    height: 100vh;
+    height: 100svh;
     background: var(--light-gray);
     display: flex;
     justify-content: center;
